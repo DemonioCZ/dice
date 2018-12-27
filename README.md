@@ -1,2 +1,2 @@
 # dice
-programek náhodného losování kostek
+programek náhodného losování kostek.
